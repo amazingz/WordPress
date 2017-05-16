@@ -18,7 +18,7 @@ Portmone может безопасно, быстро и легко принят�
 Простые и понятные цены, первоклассный анализ мошенничества и круглосуточная поддержка.
 
 = Start with Portmone =
-[Create Free Portmone Account](https://www.portmone.com.ua/r3/ru/)
+[Create Free Portmone Account](https://www.portmone.com.ua/r3/ecommerce/sign-up)
 
 = Allowed currencies =
 С нами ваши клиенты могут совершать покупки в UAH.
